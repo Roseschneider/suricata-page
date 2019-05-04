@@ -1,0 +1,48 @@
+.body {
+  background-color: #ffffff;
+  font-family: Open Sans;
+}
+
+.logo_suricata {
+ height: 3em;
+}
+
+
+.logo-footer {
+  height: 5em;
+}
+
+.suricata-final {
+  margin-left: 38em;
+}
+
+.navbar, nav{
+  background-color: #e83e8c;
+  height: 6em;
+}
+
+
+.nav-link {
+  color: #ffffff;
+}
+
+.card-deck {
+  margin-right: 75px;
+  margin-left: 75px;
+}
+
+
+.icon-section {
+  background-color: #17a2b8;
+  height: 10em;
+}
+
+.ico{
+  font-size: 4em;
+  margin-top: 0.5em;;
+  margin-bottom:0.5em;
+}
+
+*final {
+  height: 10em;
+}
